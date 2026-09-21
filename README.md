@@ -58,6 +58,7 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="consICA/README.md"><img src="consICA/consICA.png" height="100"></a>
 <a href="Coralysis/README.md"><img src="Coralysis/Coralysis.png" height="100"></a>
 <a href="coRdon/README.md"><img src="coRdon/coRdon.png" height="100"></a>
+<a href="CorNetto/README.md"><img src="CorNetto/CorNetto.png" height="100"></a>
 <a href="corral/README.md"><img src="corral/corral_sticker.png" height="100"></a>
 <a href="countsimQC/README.md"><img src="countsimQC/countsimQC.png" height="100"></a>
 <a href="CrispRVariants/README.md"><img src="CrispRVariants/CrispRVariants.png" height="100"></a>
